@@ -1,0 +1,2 @@
+NPM DEPENDENCIES:
+    yarn add fastify@3.2

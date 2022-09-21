@@ -1,0 +1,22 @@
+{
+  "name": "distributed-systems-hunter-li",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spalduing/distributed-systems-hunter-li.git"
+  },
+  "author": "mdiazc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spalduing/distributed-systems-hunter-li/issues"
+  },
+  "homepage": "https://github.com/spalduing/distributed-systems-hunter-li#readme",
+  "dependencies": {
+    "node-fetch": "2.6"
+  }
+}
